@@ -1,7 +1,7 @@
 # wordle
 A clone of the popular game Wordle
 
-## New features
+## Pending features
 A keyboard indicating which letters are in the word or not.
 
 ## Notes
